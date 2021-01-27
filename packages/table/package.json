@@ -1,6 +1,6 @@
 {
-  "name": "@ant-design/pro-table",
-  "version": "2.8.1",
+  "name": "@baiyu/pro-table",
+  "version": "3.0.0",
   "description": "🏆 Use Ant Design Table like a Pro!",
   "keywords": [
     "antd",
