@@ -1,6 +1,34 @@
 # Change Log
 
-All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 3.1.0 (2021-01-27)
+
+
+### Bug Fixes
+
+* **layout:** support using GlobalHeader prefixCls ([#411](https://github.com/ant-design/pro-components/issues/411)) ([d820fa3](https://github.com/ant-design/pro-components/commit/d820fa3aa75385b2262fe3e70101ab3664eea44f))
+* **protable:** remove unused import ([ed5e6c4](https://github.com/ant-design/pro-components/commit/ed5e6c4ffcbcf2b2e40af2682ca9a2c84a1a44d3))
+* **table:** use default value of labelWidth ([#290](https://github.com/ant-design/pro-components/issues/290)) ([c37e753](https://github.com/ant-design/pro-components/commit/c37e753f9cdca00b1d75716467cefa0f1c7cb3b5))
+* **table:** 搜索项如果只选择起始日期时，会出现Invalid Date ([#123](https://github.com/ant-design/pro-components/issues/123)) ([a8c26e2](https://github.com/ant-design/pro-components/commit/a8c26e26167d91a08ebcf15fea63bd7692196764))
+* iteration key ([6b63e42](https://github.com/ant-design/pro-components/commit/6b63e425ae8ee5d65fb6e3cb7e52c6808d2d848b))
+* pro-table, setting icon upper than others in toolbar. ([#30](https://github.com/ant-design/pro-components/issues/30)) ([d62dc57](https://github.com/ant-design/pro-components/commit/d62dc576c77af2935a65f3c93a0b8f54ccf56f82))
+* 修复ci 问题 ([b8b8048](https://github.com/ant-design/pro-components/commit/b8b80482b17d21f0535aca15dfdd04e4e84f212b))
+* 删掉不用的代码,避免干扰 ([9f93a2e](https://github.com/ant-design/pro-components/commit/9f93a2e4cb8515c1d629e695c7c9e4fb21af6526))
+* 补上API ([0c775dc](https://github.com/ant-design/pro-components/commit/0c775dc7da0f6bea32798ff41ee40012eaca30c5))
+
+
+### Features
+
+* 优化 ProTable 批量操作工具栏 ([#532](https://github.com/ant-design/pro-components/issues/532)) ([8e8f69b](https://github.com/ant-design/pro-components/commit/8e8f69b7c16e0004b13cbd5d009d25ad3b56e29f))
+* **Table:** Fix column reset to default column display ([#525](https://github.com/ant-design/pro-components/issues/525)) ([af6ce53](https://github.com/ant-design/pro-components/commit/af6ce53a9f70dd92b889e7cd885f71c9e4315fab))
+* add protable demos and adjust docs ([016a8fe](https://github.com/ant-design/pro-components/commit/016a8fe12d1ea672d5f46fdbaafa075974febdc0))
+* **form:** ProForm new Layout LightFilter support  ([#173](https://github.com/ant-design/pro-components/issues/173)) ([e558c62](https://github.com/ant-design/pro-components/commit/e558c62a14e9d3b85050f790c72de96dbaa82321))
+
+
+
+
 
 ## [2.8.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-table@2.8.0...@ant-design/pro-table@2.8.1) (2020-09-22)
 
