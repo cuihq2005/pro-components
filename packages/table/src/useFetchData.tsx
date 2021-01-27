@@ -96,6 +96,8 @@ const useFetchData = <T extends RequestData<any>>(
         )) || {};
       if (success !== false) {
         setDataAndLoading(data, dataTotal);
+      }else{
+        setLoading(false);
       }
       if (onLoad) {
         onLoad(data);
